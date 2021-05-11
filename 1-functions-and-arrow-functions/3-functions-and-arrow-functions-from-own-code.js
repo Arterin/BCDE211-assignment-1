@@ -19,4 +19,7 @@ async function scrapeSaltybet() {
     return saltyText;
 }
 
-//
+scrapeSaltybet().then(function(result){
+    console.log(result);
+})
+
