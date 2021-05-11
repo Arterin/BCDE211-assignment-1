@@ -15,7 +15,7 @@ y = mycar.make; // y gets the value "Toyota"
 // ---------------------------------------------------------------
 // Function expression without name.
 const square = function(number) { return number * number };
-var x = square(4);// x gets the value 16
+var g = square(4);// g gets the value 16
 
 // ---------------------------------------------------------------
 // Function expression with name.
