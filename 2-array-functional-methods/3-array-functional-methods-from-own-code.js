@@ -6,3 +6,5 @@
 // Array.forEach()
 
 // Array.every()
+
+// TODO everything :)
